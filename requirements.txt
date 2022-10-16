@@ -2,3 +2,5 @@ this is a chat application
 emoji
 type options
 vibratant colors
+Dark Mode
+Video features
